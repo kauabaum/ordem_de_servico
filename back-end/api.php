@@ -5,11 +5,11 @@ header("Content-Type: application/json");
 
 $method = $_SERVER['REQUEST_METHOD'];
 
-// Conexão com o banco MySQL da Hostinger
-$host = 'localhost'; // Normalmente é localhost mesmo na Hostinger
-$user = 'testeu208971626_teste';
-$password = 'Teste2215';
-$dbname = 'u208971626_ordem_servico';
+// Conexão com o banco MySQL da Hostinger(uso hostinger para meu trabalho)
+$host = 'localhost';
+$user = ''; #Adicione o User do banco de dados
+$password = ''; #Adicione a Senha do banco de dados
+$dbname = ''; #Adicione o Nome do banco de dados
 
 $conn = new mysqli($host, $user, $password, $dbname);
 
