@@ -88,7 +88,7 @@ npm install
 3 - Execute o aplicativo:
 
 ```bash
-npx electron .
+npm start
 ```
 ---
 Conecte-se à API configurando a URL no código JavaScript, se necessário.
