@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Login</h1>
+  <input type="text" id="usuario" placeholder="Digite seu nome de usuário" required>
+  <button onclick="login()">Entrar</button>
+
+  <script>
+    function login() {
+      const nome = document.getElementById('usuario').value.trim();
+      if (nome) {
+        localStorage.setItem('usuarioLogado', nome);
+        window.location.href = 'index.html';
+      } else {
+        alert('Digite um nome de usuário válido.');
+      }
+    }
+  </script>
+</body>
+</html>
