@@ -51,6 +51,31 @@ ordem_de_servico/
 
 ---
 
+📸 Telas Principais
+
+## Login
+   ```bash
+   https://imgur.com/H9CbJf8
+ ```
+## Tela Inicial
+   ```bash
+   https://imgur.com/REkP0LT
+ ```
+## Adicionar Ordem de Serviço
+   ```bash
+   https://imgur.com/SoLhOM6
+ ```
+## Gerar Relatório
+   ```bash
+   https://imgur.com/CqUixg9
+ ```
+ ## Relatório Gerado
+   ```bash
+   https://imgur.com/4gSyOOF
+ ```
+
+---
+
 ## 🧠 Tecnologias Utilizadas
 
 | Camada | Tecnologias |
