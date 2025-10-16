@@ -41,8 +41,6 @@ A aplicação se conecta à API via **método `fetch`**, trazendo informações 
 
 ## 🧱 Estrutura do Projeto
 
----
-
 ordem_de_servico/
 > ├── front-end/ # Interface desktop (Electron, HTML, CSS, JS)
 > ├── back-end/ # Código da API (PHP) hospedada na Hostinger
