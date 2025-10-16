@@ -44,10 +44,10 @@ A aplicação se conecta à API via **método `fetch`**, trazendo informações 
 ---
 
 ordem_de_servico/
-├── front-end/ # Interface desktop (Electron, HTML, CSS, JS)
-├── back-end/ # Código da API (PHP) hospedada na Hostinger
-├── .gitignore
-└── README.md
+> ├── front-end/ # Interface desktop (Electron, HTML, CSS, JS)
+> ├── back-end/ # Código da API (PHP) hospedada na Hostinger
+> ├── .gitignore
+> └── README.md
 
 ---
 
